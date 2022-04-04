@@ -50,3 +50,11 @@
 .main-body table {
     font-size: .75rem;
 }
+
+.main-body {
+    font-size: 0.8rem;
+}
+
+.max-height-2rem {
+    max-height: 2rem;
+}
